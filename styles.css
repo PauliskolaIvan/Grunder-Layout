@@ -1,0 +1,42 @@
+p {
+  color: black;
+  /*background-color: #ffe5b4;*/
+}
+
+body {
+  background-color: lightblue;
+  font-family: Verdana, sans-serif;
+}
+
+header {
+  color: black;
+}
+
+section {
+  background-color: lightblue;
+  padding: 10px;
+  display: flex;
+  /*display: grid;
+  grid-template-columns: 1fr 1fr;*/
+}
+
+article {
+  background-color: #ffe5b4;
+  border: 2px solid brown;
+  margin: 4px;
+  padding: 10px;
+}
+
+footer {
+  background-color: #ffe5b4;
+  padding: 10px;
+}
+
+a {
+  color: brown;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
